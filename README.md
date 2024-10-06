@@ -144,4 +144,38 @@ Contributions are welcome! Please read the [Contribution Guidelines](https://yu
 - [PySide6](https://doc.qt.io/qtforpython/) for the GUI framework.
 - [GitHub API](https://docs.github.com/en/rest) for version control integration.
 
-````
+## coming features to enhance the software structure
+## Soft Enhance Proposal Simplified Tasklist
+
+**User Focus:**
+
+- [ ] Implement user authentication (PyAuth/Flask-Login)
+- [ ] Create user profiles for settings, projects, API keys
+- [ ] Improve error messages to be user-friendly
+- [ ] Add a help section and tooltips for guidance
+- [ ] Implement real-time collaboration (Firebase/Socket.io)
+- [ ] Enhance GitHub integration for version control
+- [ ] Revamp UI/UX with designer input and user testing
+- [ ] Make the app responsive and accessible
+- [ ] Translate the app into multiple languages
+- [ ] Integrate analytics while respecting privacy
+- [ ] Add an in-app feedback and bug reporting system
+- [ ] Build a community platform (forums/Discord)
+
+**AI & Features:**
+
+- [ ] Fine-tune CodeT5 model with more data
+- [ ] Integrate advanced AI models (Together.ai/GPT-4)
+- [ ] Add support for more programming languages and frameworks
+- [ ] Provide code templates for popular frameworks
+- [ ] Implement a sandboxed code execution environment
+- [ ] Integrate debugging tools (breakpoints, variable inspection)
+
+**Technical & Development:**
+
+- [ ] Develop a plugin architecture for extensibility
+- [ ] Package the app for different operating systems
+- [ ] Implement an auto-update mechanism
+- [ ] Review and ensure compliance with third-party licenses
+- [ ] Draft a clear privacy policy
+- [ ] Actively maintain the GitHub repository
